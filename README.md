@@ -396,7 +396,7 @@ ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1)">DEF
 <img src=x\x09onerror="javascript:alert(1)">
 <img src=x\x10onerror="javascript:alert(1)">
 <img src=x\x11onerror="javascript:alert(1)">
-<img src=x\x12onerror="javascript:alert(1)">
+<img src=x\x12onerror="javascript:alert(1)"
 <img src=x\x13onerror="javascript:alert(1)">
 <img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
 <img src=x onerror=\x09"javascript:alert(1)">
